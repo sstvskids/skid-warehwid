@@ -1,3 +1,5 @@
 return {
     "2B749D88-F93C-460B-BB7E-D528289771C5", -- stav
+    "98FCAEA8-744B-468C-A25F-CA35EFD50242", -- kryptonite owner skxdded
+    "D66993E2-9D51-46E2-B0BA-F48F61C34416", -- drdweebq
 }
