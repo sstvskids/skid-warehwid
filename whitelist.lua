@@ -22,3 +22,4 @@ if Blacklist [game:GetService("RbxAnalyticsService"):GetClientId()] then
 end
 
 -- Blacklist/Whitelist fully coded by StavExploitz
+-- Note that Byfron has fully released so this is fully useless until executors get fixed
