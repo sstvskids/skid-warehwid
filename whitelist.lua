@@ -12,3 +12,13 @@ return {
     "1753EAAC-E139-4510-8DD1-5B8ADBEFCD2E", -- rainy
     "798E48A1-6BDD-4AAA-9D38-B5BFB87C2C75", -- prison
 }
+
+local Blacklist {
+    "BD575417-0AA5-44B0-9587-802C9a805136" -- Mont
+}
+
+if Blacklist game:GetService("RbxAnalyticsService"):GetClientId() then
+    game.Players.LocalPlayer:Kick("blacklisted nn? cry about it")
+end
+
+-- Blacklist/Whitelist fully coded by StavExploitz
