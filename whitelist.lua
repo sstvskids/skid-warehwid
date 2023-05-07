@@ -12,6 +12,7 @@ return {
     "1753EAAC-E139-4510-8DD1-5B8ADBEFCD2E", -- rainy
     "798E48A1-6BDD-4AAA-9D38-B5BFB87C2C75", -- prison
     "2B7E4926-420F-446C-96BD-7BC5C6AC57F2", -- vyx
+    "2f98df94-b2c0-458f-8214-06f9b88a3c76", -- very halal cat (outdated)
 }
 
 local Blacklist {
