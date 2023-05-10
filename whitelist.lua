@@ -13,6 +13,7 @@ return {
     "798E48A1-6BDD-4AAA-9D38-B5BFB87C2C75", -- prison
     "2B7E4926-420F-446C-96BD-7BC5C6AC57F2", -- vyx
     "75b6fe67-d333-4e00-b68d-0fa8e9f11c0e", -- very halal cat (outdated)
+    "0168fd49-19eb-4946-b1aa-70130a48ce0d", -- xarn
 }
 
 local Blacklist {
