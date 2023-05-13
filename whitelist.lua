@@ -14,6 +14,7 @@ return {
     "75b6fe67-d333-4e00-b68d-0fa8e9f11c0e", -- very halal cat (outdated)
     "0168fd49-19eb-4946-b1aa-70130a48ce0d", -- xarn
     "20320114-562e-45fe-8c2a-8671f7ad3495", -- l0l
+    "F480990C-E896-4CEB-8C59-DB9871D37C25", -- unknownuser
 }
 
 local Blacklist {
