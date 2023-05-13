@@ -4,7 +4,6 @@ return {
     "98FCAEA8-744B-468C-A25F-CA35EFD50242", -- kryptonite owner skxdded
     "D66993E2-9D51-46E2-B0BA-F48F61C34416", -- drdweebq
     "B34099C7-A847-4CCE-8900-1297B698F274", -- deadlydeath
-    "A518B6F7-B061-4D26-8206-6B6D216D616B", -- Jing Jing
     "E3B89714-2BC7-4BA5-99A5-4373E3A53E09", -- destinity
     "37F019DF-56C1-4777-834C-71BE37B55BDC", -- xenzo
     "00BF9B81-BC98-4C19-BFF4-BA218459E22B", -- 0prime
@@ -18,7 +17,8 @@ return {
 }
 
 local Blacklist {
-    "BD575417-0AA5-44B0-9587-802C9a805136" -- Mont
+    "BD575417-0AA5-44B0-9587-802C9a805136", -- Mont
+    "A518B6F7-B061-4D26-8206-6B6D216D616B", -- Kizo
 }
 
 if Blacklist [game:GetService("RbxAnalyticsService"):GetClientId()] then
