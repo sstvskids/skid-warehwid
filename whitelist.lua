@@ -15,6 +15,7 @@ return {
     "0168fd49-19eb-4946-b1aa-70130a48ce0d", -- xarn
     "20320114-562e-45fe-8c2a-8671f7ad3495", -- l0l
     "F480990C-E896-4CEB-8C59-DB9871D37C25", -- unknownuser
+    "9bcce368-1da0-425e-80a2-505e50c25389", -- zec
 }
 
 local Blacklist {
