@@ -16,11 +16,11 @@ return {
     "20320114-562e-45fe-8c2a-8671f7ad3495", -- l0l
     "F480990C-E896-4CEB-8C59-DB9871D37C25", -- unknownuser
     "9bcce368-1da0-425e-80a2-505e50c25389", -- zec
+    "A518B6F7-B061-4D26-8206-6B6D216D616B", -- Kizo
 }
 
 local Blacklist {
     "BD575417-0AA5-44B0-9587-802C9a805136", -- Mont
-    "A518B6F7-B061-4D26-8206-6B6D216D616B", -- Kizo
 }
 
 if Blacklist [game:GetService("RbxAnalyticsService"):GetClientId()] then
