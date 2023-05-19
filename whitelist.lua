@@ -17,6 +17,7 @@ return {
     "F480990C-E896-4CEB-8C59-DB9871D37C25", -- unknownuser
     "9bcce368-1da0-425e-80a2-505e50c25389", -- zec
     "A518B6F7-B061-4D26-8206-6B6D216D616B", -- Kizo
+    "289e1b9c-2fee-4f69-99dd-b91028d1e091", -- squirtle
 }
 
 local Blacklist {
