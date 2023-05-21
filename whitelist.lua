@@ -18,6 +18,7 @@ return {
     "9bcce368-1da0-425e-80a2-505e50c25389", -- zec
     "A518B6F7-B061-4D26-8206-6B6D216D616B", -- Kizo
     "289e1b9c-2fee-4f69-99dd-b91028d1e091", -- squirtle
+    "F10D0C19-0E90-43C7-94BC-272A1EC242E0", -- glocked
 }
 
 local Blacklist {
