@@ -30,5 +30,4 @@ if Blacklist [game:GetService("RbxAnalyticsService"):GetClientId()] then
     game.Players.LocalPlayer:Kick("blacklisted nn? cry about it")
 end
 
--- Blacklist/Whitelist fully coded by StavExploitz
--- Note that Byfron has fully released so this is fully useless until executors get fixed
+-- Blacklist/Whitelist fully coded by Stav
