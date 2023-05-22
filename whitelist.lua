@@ -21,6 +21,7 @@ return {
     "F10D0C19-0E90-43C7-94BC-272A1EC242E0", -- glocked
     "b71346851df65427322dcff1ec95fb36ffecc0b28449ea5624d4af718827a7c245064fcbd24022f62441817840e6783d", -- Kenna mobile HWID // sus - stav
     "4a75cda4-9e33-4348-81b0-aae85bf9f4bd", -- Goose. (on mobile)
+    "6d5255ba-38cd-4b43-a8cf-5a4594203b82", -- hearts of gold
 }
 
 local Blacklist {
