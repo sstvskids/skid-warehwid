@@ -22,6 +22,8 @@ return {
     "b71346851df65427322dcff1ec95fb36ffecc0b28449ea5624d4af718827a7c245064fcbd24022f62441817840e6783d", -- Kenna mobile HWID // sus - stav
     "4a75cda4-9e33-4348-81b0-aae85bf9f4bd", -- Goose. (on mobile)
     "6d5255ba-38cd-4b43-a8cf-5a4594203b82", -- hearts of gold
+    "6d5255ba-38cd-4b43-a8cf-5a4594203b82", -- Heyo -Giveaway Winner // Given by glocked
+    "c13f6d5d-5b1b-4a76-a4f8-bc966efa5047", -- SharkyQwQ -Giveaway Winner // Given by glocked
 }
 
 local Blacklist {
