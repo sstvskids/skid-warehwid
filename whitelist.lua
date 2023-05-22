@@ -19,7 +19,8 @@ return {
     "A518B6F7-B061-4D26-8206-6B6D216D616B", -- Kizo
     "289e1b9c-2fee-4f69-99dd-b91028d1e091", -- squirtle
     "F10D0C19-0E90-43C7-94BC-272A1EC242E0", -- glocked
-    "b71346851df65427322dcff1ec95fb36ffecc0b28449ea5624d4af718827a7c245064fcbd24022f62441817840e6783d", -- Kenna mobile HWID
+    "b71346851df65427322dcff1ec95fb36ffecc0b28449ea5624d4af718827a7c245064fcbd24022f62441817840e6783d", -- Kenna mobile HWID // sus - stav
+    "4a75cda4-9e33-4348-81b0-aae85bf9f4bd", -- Goose. (on mobile)
 }
 
 local Blacklist {
