@@ -26,6 +26,7 @@ return {
     "c13f6d5d-5b1b-4a76-a4f8-bc966efa5047", -- SharkyQwQ -Giveaway Winner // Given by glocked
     "8873BB6E-5893-41AA-AABB-BAE745C91391", -- Nicknamez -Giveaway Winner // Given by glocked
     "3c32b128-4132-4f05-a3ea-6e756101c3aa", -- Minimize // GG EZ
+    "3389C779-1321-421C-9A56-1FA19044FA3D", -- Astro // Booster
 }
 
 local Blacklist {
