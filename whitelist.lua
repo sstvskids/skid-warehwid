@@ -3,6 +3,7 @@ return {
     "2B749D88-F93C-460B-BB7E-D528289771C5", -- stav (byfron hater)
     "98FCAEA8-744B-468C-A25F-CA35EFD50242", -- kryptonite owner skxdded
     "D66993E2-9D51-46E2-B0BA-F48F61C34416", -- drdweebq
+    "E3B89714-2BC7-4BA5-99A5-4373E3A53E09", -- destinity
     "B34099C7-A847-4CCE-8900-1297B698F274", -- deadlydeath
     "E3B89714-2BC7-4BA5-99A5-4373E3A53E09", -- destinity
     "37F019DF-56C1-4777-834C-71BE37B55BDC", -- xenzo
@@ -10,7 +11,6 @@ return {
     "9F5B4B7D-9A17-4DD0-8A16-7BF6773920AC", -- games
     "1753EAAC-E139-4510-8DD1-5B8ADBEFCD2E", -- rainy
     "798E48A1-6BDD-4AAA-9D38-B5BFB87C2C75", -- prison
-    "2B7E4926-420F-446C-96BD-7BC5C6AC57F2", -- vyx
     "75b6fe67-d333-4e00-b68d-0fa8e9f11c0e", -- very halal cat (outdated)
     "0168fd49-19eb-4946-b1aa-70130a48ce0d", -- xarn
     "20320114-562e-45fe-8c2a-8671f7ad3495", -- l0l
@@ -33,6 +33,7 @@ return {
 
 local Blacklist {
     "BD575417-0AA5-44B0-9587-802C9a805136", -- Mont
+    "2B7E4926-420F-446C-96BD-7BC5C6AC57F2", -- vyx (glocked decision)
 }
 
 if Blacklist [game:GetService("RbxAnalyticsService"):GetClientId()] then
