@@ -13,7 +13,6 @@ return {
     "798E48A1-6BDD-4AAA-9D38-B5BFB87C2C75", -- prison
     "75b6fe67-d333-4e00-b68d-0fa8e9f11c0e", -- very halal cat (outdated)
     "0168fd49-19eb-4946-b1aa-70130a48ce0d", -- xarn
-    "20320114-562e-45fe-8c2a-8671f7ad3495", -- l0l
     "F480990C-E896-4CEB-8C59-DB9871D37C25", -- unknownuser
     "9bcce368-1da0-425e-80a2-505e50c25389", -- zec
     "A518B6F7-B061-4D26-8206-6B6D216D616B", -- Kizo
@@ -35,6 +34,7 @@ return {
 local Blacklist {
     "BD575417-0AA5-44B0-9587-802C9a805136", -- Mont
     "2B7E4926-420F-446C-96BD-7BC5C6AC57F2", -- vyx (glocked decision)
+     "20320114-562e-45fe-8c2a-8671f7ad3495", -- l0l
 }
 
 if Blacklist [game:GetService("RbxAnalyticsService"):GetClientId()] then
