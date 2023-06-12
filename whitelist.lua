@@ -30,6 +30,7 @@ return {
     "99744F34-A480-4091-BCFC-9F7F6FDB6183", -- Novo // Application #2ND
     "8629F3E2-E4D7-460E-8027-68DBFB4DB7ED", -- goose friends hwid
     "AA678536-A99E-43F9-A63C-EA6EFAE877C2", -- n1san1
+    "dcee9a5f-68b9-438f-aa4b-473fa684ee51",
 }
 
 local Blacklist {
