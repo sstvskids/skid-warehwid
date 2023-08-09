@@ -16,7 +16,7 @@ return {
     "9bcce368-1da0-425e-80a2-505e50c25389", -- zec
     "A518B6F7-B061-4D26-8206-6B6D216D616B", -- Kizo
     "289e1b9c-2fee-4f69-99dd-b91028d1e091", -- squirtle
-    "F10D0C19-0E90-43C7-94BC-272A1EC242E0", -- glocked
+    "4C4C4544-0043-5810-8030-B1C04F464E33", -- Chang3d
     "b71346851df65427322dcff1ec95fb36ffecc0b28449ea5624d4af718827a7c245064fcbd24022f62441817840e6783d", -- Kenna mobile HWID // sus - stav
     "4a75cda4-9e33-4348-81b0-aae85bf9f4bd", -- Goose. (on mobile)
     "6d5255ba-38cd-4b43-a8cf-5a4594203b82", -- hearts of gold
