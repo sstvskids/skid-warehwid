@@ -31,6 +31,7 @@ return {
     "AA678536-A99E-43F9-A63C-EA6EFAE877C2", -- n1san1
     "21BEC27F-7E75-11E3-AD04-B251760180FF", -- TechnoWillResurrect
     "DC27B0D6-7C08-464B-9657-8AEE1F5BAF5C", -- Stxr
+    "5382F9F9-2820-4B8B-9F3A-491058FBAC3D", -- Salad-Ware Owner
 }
 
 local Blacklist {
