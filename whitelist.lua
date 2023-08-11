@@ -32,6 +32,7 @@ return {
     "21BEC27F-7E75-11E3-AD04-B251760180FF", -- TechnoWillResurrect
     "DC27B0D6-7C08-464B-9657-8AEE1F5BAF5C", -- Stxr
     "5382F9F9-2820-4B8B-9F3A-491058FBAC3D", -- Salad-Ware Owner
+    "800547DA-74EF-4032-A710-F2E2B8F1DC5A", -- Wearish
 }
 
 local Blacklist {
