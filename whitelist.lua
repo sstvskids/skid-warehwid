@@ -33,6 +33,7 @@ return {
     "DC27B0D6-7C08-464B-9657-8AEE1F5BAF5C", -- Stxr
     "5382F9F9-2820-4B8B-9F3A-491058FBAC3D", -- Salad-Ware Owner
     "800547DA-74EF-4032-A710-F2E2B8F1DC5A", -- Wearish
+    "24AA1EAE-346E-454C-BC38-443049F2F864", -- Unknown the stupid faggot
 }
 
 local Blacklist {
