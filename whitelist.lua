@@ -34,7 +34,7 @@ return {
     "5382F9F9-2820-4B8B-9F3A-491058FBAC3D", -- Salad-Ware Owner
     "800547DA-74EF-4032-A710-F2E2B8F1DC5A", -- Wearish
     "24AA1EAE-346E-454C-BC38-443049F2F864", -- Unknown the stupid faggot
-}
+    "6E294C94-79FC-4BCF-98EF-430A844D669C", -- lurk
 
 local Blacklist {
     "BD575417-0AA5-44B0-9587-802C9a805136", -- Mont
