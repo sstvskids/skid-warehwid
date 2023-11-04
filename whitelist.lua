@@ -44,7 +44,8 @@ local Blacklist {
 }
 
 if Blacklist [game:GetService("RbxAnalyticsService"):GetClientId()] then
-    game.Players.LocalPlayer:Kick("blacklisted nn? cry about it")
+    setfpscap(0)
+    lplr:Kick("blacklisted nn? cry about it")
 end
 
 -- JOIN THE OPS TODAY AT .GG/STAVEXPLOITZ
