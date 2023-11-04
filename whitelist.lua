@@ -28,7 +28,6 @@ return {
     "99744F34-A480-4091-BCFC-9F7F6FDB6183", -- 素敵なサブバン // Application #1ST
     "99744F34-A480-4091-BCFC-9F7F6FDB6183", -- Novo // Application #2ND
     "8629F3E2-E4D7-460E-8027-68DBFB4DB7ED", -- goose friends hwid
-    "AA678536-A99E-43F9-A63C-EA6EFAE877C2", -- n1san1
     "21BEC27F-7E75-11E3-AD04-B251760180FF", -- TechnoWillResurrect
     "DC27B0D6-7C08-464B-9657-8AEE1F5BAF5C", -- Stxr
     "5382F9F9-2820-4B8B-9F3A-491058FBAC3D", -- Salad-Ware Owner
@@ -39,8 +38,9 @@ return {
 local Blacklist {
     "BD575417-0AA5-44B0-9587-802C9a805136", -- Mont
     "2B7E4926-420F-446C-96BD-7BC5C6AC57F2", -- vyx (glocked decision)
-     "20320114-562e-45fe-8c2a-8671f7ad3495", -- l0l
+    "20320114-562e-45fe-8c2a-8671f7ad3495", -- l0l
     "1753EAAC-E139-4510-8DD1-5B8ADBEFCD2E", -- rainy
+    "AA678536-A99E-43F9-A63C-EA6EFAE877C2" -- skidsan
 }
 
 if Blacklist [game:GetService("RbxAnalyticsService"):GetClientId()] then
